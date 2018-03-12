@@ -22,6 +22,7 @@ Public Class Form1
         'sr = New StreamReader(file_name, System.Text.Encoding.UTF8)
         'txtAsUnicode.Text = sr.ReadToEnd()
         'sr.Close()
+        ' some more comments added here
 
         txtAsUnicode.Text = My.Computer.FileSystem.ReadAllText(file_name, System.Text.Encoding.GetEncoding("windows-1256"))
         txtAsUnicode.Text = txtAsUnicode.Text.Replace("ã", "AM")
