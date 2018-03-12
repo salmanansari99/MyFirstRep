@@ -1,0 +1,25 @@
+Dubai Courts
+hardware
+- access control handover
+- final verification list with status of door 
+	fixture issue
+	enabled or active 
+	by 8th march
+software
+- change inactive reader notif time to be 4 hours
+Implement Visitor Management
+- plan a meeting after reviwing requirement
+- remarks are pending
+1. HR will send the default text and subject for email  ( absence )  notification
+- Write 'Full Day Absent' / 'ghiyaab' instead of 'No Punch'
+- add to audit log about informatino about email notification sent from interface, with parameters like span and subject, text.
+- CC to line manager 
+2. Automatic Shifts 
+tommorrow get feedback from SPICA ( Critical )
+3. Late Arrival Report
+hierarchal departments
+4. Export to excel
+Permit exceed report
+5. Sorting of reports
+by employee number
+
