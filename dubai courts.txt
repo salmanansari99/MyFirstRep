@@ -1,4 +1,7 @@
 Dubai Courts
+
+Some changes here
+
 hardware
 - access control handover
 - final verification list with status of door 
@@ -6,6 +9,8 @@ hardware
 	enabled or active 
 	by 8th march
 software
+
+// ( lets see )  comments
 - change inactive reader notif time to be 4 hours
 Implement Visitor Management
 - plan a meeting after reviwing requirement
@@ -23,3 +28,4 @@ Permit exceed report
 5. Sorting of reports
 by employee number
 
+And there. 
